@@ -37,7 +37,7 @@ __4. Run Jekyll, to automatically build a local copy of the demovement website:_
 
 {% highlight bash %}
 cd <where-you-put-it>/demovement.org
-jekyll
+jekyll --auto --server
 {% endhighlight %}
 
 __5. Make your changes to the files ending in '.md'.__
